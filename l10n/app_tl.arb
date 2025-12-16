@@ -1,0 +1,21 @@
+{
+    "@@locale": "tl",
+    "appTitle": "Maduro",
+    "@@appTitle": {},
+    "fruitDetectionDescription": "Pagtuklas ng Pagkahinog ng Prutas",
+    "@@fruitDetectionDescription": {},
+    "languageTitle": "Wika",
+    "@@languageTitle": {},
+    "languageSubtitle": "Piliin ang iyong gustong wika",
+    "@@languageSubtitle": {},
+    "currentSelection": "Kasalukuyang Pinili",
+    "@@currentSelection": {},
+    "englishLanguage": "Ingles",
+    "@@englishLanguage": {},
+    "englishSubtitle": "Ingles (US)",
+    "@@englishSubtitle": {},
+    "filipinoLanguage": "Filipino",
+    "@@filipinoLanguage": {},
+    "tagalogSubtitle": "Tagalog (PH)",
+    "@@tagalogSubtitle": {}
+}

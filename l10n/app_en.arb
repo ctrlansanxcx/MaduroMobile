@@ -1,0 +1,17 @@
+{
+    "@@locale": "en",
+    "languageTitle": "Language",
+    "@@languageTitle": {},
+    "languageSubtitle": "Choose your preferred language",
+    "@@languageSubtitle": {},
+    "currentSelection": "Current Selection",
+    "@@currentSelection": {},
+    "englishLanguage": "English",
+    "@@englishLanguage": {},
+    "englishSubtitle": "English (US)",
+    "@@englishSubtitle": {},
+    "filipinoLanguage": "Filipino",
+    "@@filipinoLanguage": {},
+    "tagalogSubtitle": "Tagalog (PH)",
+    "@@tagalogSubtitle": {}
+}

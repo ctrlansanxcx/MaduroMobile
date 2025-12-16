@@ -1,0 +1,4 @@
+0 Ripe
+1 Rotten
+2 Unknown
+3 Unripe

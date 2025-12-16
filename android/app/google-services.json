@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "334753958072",
+    "project_id": "maduromobile",
+    "storage_bucket": "maduromobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334753958072:android:2a5d0295c61008b2004c4d",
+        "android_client_info": {
+          "package_name": "com.example.maduro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334753958072-6v0ot898kr2guq5qes4nhnk8eii9gchf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maduro",
+            "certificate_hash": "a86ac64556d7409aa37c71b54ce3dba73d2908e5"
+          }
+        },
+        {
+          "client_id": "334753958072-430h82khg9a54443n8n9eehm4sga4g3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3B28j0KxdwMqW4Pr2OtAHfB9dYicjODI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334753958072-2slgkdqivb77aun0vec44g1qmtu8ehi6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334753958072-70104boohbkt0dpmg2hc65i5r47cko3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.maduroWeb"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334753958072:android:270bcc171a5b2895004c4d",
+        "android_client_info": {
+          "package_name": "com.example.maduro_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334753958072-430h82khg9a54443n8n9eehm4sga4g3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3B28j0KxdwMqW4Pr2OtAHfB9dYicjODI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334753958072-2slgkdqivb77aun0vec44g1qmtu8ehi6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334753958072-70104boohbkt0dpmg2hc65i5r47cko3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.maduroWeb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

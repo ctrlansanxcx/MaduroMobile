@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334753958072",
+    "project_id": "maduromobile",
+    "storage_bucket": "maduromobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334753958072:android:2a5d0295c61008b2004c4d",
+        "android_client_info": {
+          "package_name": "com.example.maduro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3B28j0KxdwMqW4Pr2OtAHfB9dYicjODI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
